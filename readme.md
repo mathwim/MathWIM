@@ -34,27 +34,6 @@ HTML5 のキャンバス機能で数式を表示・編集
 [https://github.com/mathwim/MathWIM/wiki/Document](https://github.com/mathwim/MathWIM/wiki/Document)
 
 
-開発環境構築
-------------
-
-1. node.js をインストール
-
-2. ソースコードをクローンして、依存ライブラリのインストール
-
-	```
-	git clone https://mathwim.github.com/MathWIM 
-	cd MathWIM 
-	npm install
-	```
-
-3. grunt コマンドの実行
-
-	```
-	grunt
-	 ```
-
-4. src/ 以下のcoffee ファイルを変更すると public/js/mathwim.js, public/js/mathwim.min.js が更新されます。
-
 TODO
 ----
 
@@ -67,12 +46,12 @@ LICENSE
 ![ccbyng](ccbyng.png)
 [Creative Commons — Attribution-NonCommercial 4.0 International — CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 
-Copyright (c) 2014 MEDIA PLUS INC.
+Copyright (c) 2014-2022 MEDIA ROBOTECH INC.
 
 Home Page
 ---------
 
 [https://mathwim.github.io](https://mathwim.github.io)
 
-[http://media-plus.co.jp/](http://media-plus.co.jp/)
+[http://mediarobotech.co.jp/](http://mediarobotech.co.jp/)
 
